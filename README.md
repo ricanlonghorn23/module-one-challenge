@@ -1,19 +1,20 @@
 # Module One Challenge 
 
-## User Story
-AS a bootcamp student, 
-I want a website codebase that adheres to accesibilty regulations,
-SO that my site is accesible and easy to read for all.
+## Description
+- What was your motivation? I want a website codebase that adheres to accesibilty regulations.
+- Why did you build this project? So that my codebase is accesible and easy to read for all.
+- What problem does it solve? When any gains access to the codebase, everyone will have a clear understanding of what is going on in the website.
+- What did you learn? Semantic HTML is a very imprtant aspect of creating code so that all code base is accesible to all.
 
-## Acceptance Criteria
-GIVEN a module one challenge website
-WHEN I see the source code and CSS code
-THEN I find semantic HTML descriptions for each section
-WHEN I view the structure of the HTML elements
-THEN I see a logical structure independent of styling and positioning
-WHEN I view the website
-THEN I see a blue header, articles and aside, and a image with 4 people in it.
-WHEN I view the footer attributes
-THEN I cannot see on display
-WHEN I view the header container
-THEN I see a CSS Section for the header container
+## Installation
+- N/A
+
+## Usage
+- Please review CSS styling comments on questions of each section.
+- Each container should have its own semantic HTML element.
+
+## Credits
+- Luis Aldaz - Github : https://github.com/ricanlonghorn23
+
+## License
+- Please refer to the LICENSE in the repo.
