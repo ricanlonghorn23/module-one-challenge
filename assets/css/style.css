@@ -1,13 +1,18 @@
+/*This is the secion that contains the universal selctor*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*This is the end of the Universal slector section */
 
+/*This is the secion that contain selectors for the body elements*/
 body {
     background-color: #d9dcd6;
 }
+/*This is the end of the selectors for the body elements */
 
+/*This CSS section is for the headers */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +45,22 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/*This is the end of the CSS section is for the headers */
 
+/*This CSS section is for the anchor elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/*This is the end of the CSS section is for the anchor elements */
 
+/*This CSS section is for the paragraph elements */
 p {
     font-size: 16px;
 }
+/*This is the end of the CSS section is for the paragraph elements */
 
+/*This CSS section is for the class selector of the hero element */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +69,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*This is the end of the CSS section is for the class selector of the hero element */
 
+/*This CSS section is for the class slector of float-left and float-right elements */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +82,17 @@ p {
     margin-left: 25px;
 }
 
+/*This is the end of the CSS section is for the class selector of float-left and float-right elements */
+
+/*This CSS section is for the article elements */
 article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/*This is the end of the CSS section for the article elements */
 
+/*This CSS section is for the aside elements */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +103,9 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/*This is the end of the CSS section for the aside elements */
 
+/*This CSS section is for the class selectors for the benifit elements */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +153,9 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+/*This is the end of the CSS section for the class selector of the benefit elements */
 
+/*This CSS section is for the class selectors within the article container */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -177,7 +199,9 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*This is the end of the CSS section for the class selector withing the article container */
 
+/*This CSS section is for the ID selectors wihtin the aside container */
 #online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +211,9 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*This is the end of the CSS section for the ID selectors with the aside cotainer */
 
+/*This CSS section is for the footer elements */
 footer {
     padding: 30px;
     clear: both;
@@ -196,6 +222,7 @@ footer {
     display: none;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
+/*This is the end of the CSS section for the footer elements */
