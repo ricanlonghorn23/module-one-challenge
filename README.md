@@ -1,10 +1,10 @@
 # Module One Challenge 
 
 ## Description
-- What was your motivation? I want a website codebase that adheres to accesibilty regulations.
-- Why did you build this project? So that my codebase is accesible and easy to read for all.
-- What problem does it solve? When anyone gains access to my codebase, everyone will have a clear understanding of what is going on in the website.
-- What did you learn? Semantic HTML is a very imprtant aspect of creating code so that all codebase is accesible and easy to read.
+- I wanted a website codebase that adheres to accesibilty regulations.
+- So that my codebase is accesible and easy for all who access it, to read.
+- When anyone gains access to my codebase, everyone will have a clear understanding of what is going on in the website.
+- Semantic HTML is a very important aspect of creating code so that all of my codebase is accesible and easy to read.
 
 ## Installation
 - N/A
